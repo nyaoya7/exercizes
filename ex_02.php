@@ -8,7 +8,7 @@
  */
 
 /*** 課題7
- * _POST と _PUT
+ * _POST と _REQUEST
  */
 
 /*** 課題8
